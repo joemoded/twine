@@ -7,5 +7,5 @@ PyCharm Community Edition 2016.3.3 - Used due to ease of integration with seleni
 Selenium
 
 To Run:
-- cd to /twine
+- cd to /twine/selenium
 - run "python test_client.py" in command line (It will only open the twine home page, as the email client does not exist)
